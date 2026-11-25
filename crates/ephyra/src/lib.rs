@@ -163,6 +163,7 @@ pub use {
             label,
             measure,
             observe,
+            observe_novelty,
             signature,
             target,
         },
